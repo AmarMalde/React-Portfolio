@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Movie Picker",
+      "deployedLink": "https://amarmalde.github.io/Movie_DB_Project/",
+      "repoLink": "https://github.com/AmarMalde/Movie_DB_Project",
+      "screenshot": "https://github.com/AmarMalde/Amar_Malde_Portfolio/blob/main/assets/MoviePickerScreenshot.jpg?raw=true",
+      "description": "Movie DB will suggest a movie based on the user's inputted criteria. It will return a movie name, a poster, a summary of the plot, a rating and a trailer. The user can also saved movies to a list of favourites to watch later"
+    },
+    {
+      "id": 2,
+      "name": "Coding Quiz",
+      "deployedLink": "https://amarmalde.github.io/Coding_Quiz/",
+      "repoLink": "https://github.com/AmarMalde/Coding_Quiz",
+      "screenshot": "https://github.com/AmarMalde/Amar_Malde_Portfolio/blob/main/assets/CodingQuizScreenshot.jpg?raw=true",
+      "description": "Coding quiz will present the user with a dynamically generated questions and a list of answers. After completing the quiz the user can save thier scores to the local storage."
+    },
+    {
+      "id": 3,
+      "name": "Workday Scheduler",
+      "deployedLink": "https://amarmalde.github.io/Work-Day-Scheduler/",
+      "repoLink": "https://github.com/AmarMalde/Work-Day-Scheduler",
+      "screenshot": "https://github.com/AmarMalde/Amar_Malde_Portfolio/blob/main/assets/WorkdayScheduler.png?raw=true",
+      "description": "Work day scheduler allows the user to enter in events for each hour between 9-5. Upon hitting save the data entered will be saved to the user's local storage so the webpage can be closed and re-opened while retaining the events."
+    },
+    {
+        "id": 4,
+        "name": "Password Generator",
+        "deployedLink": "https://amarmalde.github.io/Password_Generator/",
+        "repoLink": "https://github.com/AmarMalde/Password_Generator",
+        "screenshot": "https://github.com/AmarMalde/Amar_Malde_Portfolio/blob/main/assets/PasswordGenerator.jpg?raw=true",
+        "description": "Password generator will generate a password with between 10 and 64 characters, that will only include character types you have chosen. It is guarenteed to include at least one of each character type."
+      },
+      {
+        "id": 5,
+        "name": "My Non-React Porfolio",
+        "deployedLink": "https://amarmalde.github.io/Amar_Malde_Portfolio/",
+        "repoLink": "https://github.com/AmarMalde/Amar_Malde_Portfolio",
+        "screenshot": "https://github.com/AmarMalde/Amar_Malde_Portfolio/blob/main/assets/screenshot.png?raw=true",
+        "description": "This portfolio was made with just HTML and CSS to show off my coding skills at an early stage of my development."
+      },
+      {
+        "id": 6,
+        "name": "My Bootstrap Porfolio",
+        "deployedLink": "https://amarmalde.github.io/Amar_Malde_Bootstrap_Portfolio/",
+        "repoLink": "https://github.com/AmarMalde/Amar_Malde_Bootstrap_Portfolio",
+        "screenshot": "https://github.com/AmarMalde/Amar_Malde_Bootstrap_Portfolio/blob/main/assets/screenshot.png?raw=true",
+        "description": "WEBSITE STILL UNDER DEVELOPMENT: This portfolio was made with Bootstrap which was used to easily create a mobile friendly webpage."
+      }
+  ]
+  
